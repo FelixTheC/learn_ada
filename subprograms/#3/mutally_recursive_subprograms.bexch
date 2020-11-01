@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__mutally_recursive_subprograms.o
+[PROJECT FILES]
+/home/felix/gnatstudio/share/gpr/_default.gpr
+20200724222349 53086888fa5dde80cf221f5b7ec14cef
+[BOUND OBJECT FILES]
+/home/felix/ada/subprograms/#3//mutally_recursive_subprograms.o
+[GENERATED SOURCE FILES]
+b__mutally_recursive_subprograms.ads
+b__mutally_recursive_subprograms.adb
+b__mutally_recursive_subprograms.ali
+[RESULTING OPTIONS]
+-L/home/felix/ada/subprograms/#3/
+-L/home/felix/ada/subprograms/#3//
+-L/home/felix/gnatstudio/lib/gcc/x86_64-pc-linux-gnu/9.3.1/adalib/
+-static
+-static-libgcc
+/home/felix/gnatstudio/lib/gcc/x86_64-pc-linux-gnu/9.3.1/adalib/libgnat.a
+-ldl

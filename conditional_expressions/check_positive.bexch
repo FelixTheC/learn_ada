@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__check_positive.o
+[PROJECT FILES]
+/home/felix/gnatstudio/share/gpr/_default.gpr
+20200724222349 e77e933146a22cc8c099ffffc9238365
+[BOUND OBJECT FILES]
+/home/felix/ada/conditional_expressions//check_positive.o
+[GENERATED SOURCE FILES]
+b__check_positive.ads
+b__check_positive.adb
+b__check_positive.ali
+[RESULTING OPTIONS]
+-L/home/felix/ada/conditional_expressions/
+-L/home/felix/ada/conditional_expressions//
+-L/home/felix/gnatstudio/lib/gcc/x86_64-pc-linux-gnu/9.3.1/adalib/
+-static
+-static-libgcc
+/home/felix/gnatstudio/lib/gcc/x86_64-pc-linux-gnu/9.3.1/adalib/libgnat.a
+-ldl

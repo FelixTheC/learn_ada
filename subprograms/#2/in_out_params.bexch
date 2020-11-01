@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__in_out_params.o
+[PROJECT FILES]
+/home/felix/gnatstudio/share/gpr/_default.gpr
+20200724222349 58fcb38990d33eeed2382f8592784d6b
+[BOUND OBJECT FILES]
+/home/felix/ada/subprograms/#2//in_out_params.o
+[GENERATED SOURCE FILES]
+b__in_out_params.ads
+b__in_out_params.adb
+b__in_out_params.ali
+[RESULTING OPTIONS]
+-L/home/felix/ada/subprograms/#2/
+-L/home/felix/ada/subprograms/#2//
+-L/home/felix/gnatstudio/lib/gcc/x86_64-pc-linux-gnu/9.3.1/adalib/
+-static
+-static-libgcc
+/home/felix/gnatstudio/lib/gcc/x86_64-pc-linux-gnu/9.3.1/adalib/libgnat.a
+-ldl

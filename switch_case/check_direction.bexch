@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__check_direction.o
+[PROJECT FILES]
+/home/felix/gnatstudio/share/gpr/_default.gpr
+20200724222349 0cbcc67281e866a9c7750b0e6973938b
+[BOUND OBJECT FILES]
+/home/felix/ada/switch_case//check_direction.o
+[GENERATED SOURCE FILES]
+b__check_direction.ads
+b__check_direction.adb
+b__check_direction.ali
+[RESULTING OPTIONS]
+-L/home/felix/ada/switch_case/
+-L/home/felix/ada/switch_case//
+-L/home/felix/gnatstudio/lib/gcc/x86_64-pc-linux-gnu/9.3.1/adalib/
+-static
+-static-libgcc
+/home/felix/gnatstudio/lib/gcc/x86_64-pc-linux-gnu/9.3.1/adalib/libgnat.a
+-ldl

@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__show_image_renaming.o
+[PROJECT FILES]
+/home/felix/gnatstudio/share/gpr/_default.gpr
+20200724222349 2ce76d41c981fb06cb0a302ac425ffc8
+[BOUND OBJECT FILES]
+/home/felix/ada/subprograms/#4//show_image_renaming.o
+[GENERATED SOURCE FILES]
+b__show_image_renaming.ads
+b__show_image_renaming.adb
+b__show_image_renaming.ali
+[RESULTING OPTIONS]
+-L/home/felix/ada/subprograms/#4/
+-L/home/felix/ada/subprograms/#4//
+-L/home/felix/gnatstudio/lib/gcc/x86_64-pc-linux-gnu/9.3.1/adalib/
+-static
+-static-libgcc
+/home/felix/gnatstudio/lib/gcc/x86_64-pc-linux-gnu/9.3.1/adalib/libgnat.a
+-ldl

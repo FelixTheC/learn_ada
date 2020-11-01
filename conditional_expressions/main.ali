@@ -1,0 +1,57 @@
+V "GNAT Lib v2020"
+M P W=b
+A -gnatA
+A -gnatc
+A -gnatwa
+A -gnaty3
+A -gnatya
+A -gnatyb
+A -gnatyc
+A -gnatye
+A -gnatyf
+A -gnatyh
+A -gnatyi
+A -gnatyk
+A -gnatyl
+A -gnatym
+A -gnatyn
+A -gnatyp
+A -gnatyr
+A -gnatys
+A -gnatyt
+A -mtune=generic
+A -march=x86-64
+P NO FX
+
+RN
+RV NO_IO
+RV NO_IMPLEMENTATION_PRAGMAS
+RV NO_ELABORATION_CODE
+
+U main%b		main.adb		8881db5c OO SU
+W ada%s			ada.ads			ada.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+
+D ada.ads		20200819050642 76789da1 ada%s
+D a-ioexce.ads		20200819050642 e4a01f64 ada.io_exceptions%s
+D a-stream.ads		20200819050642 119b8fb3 ada.streams%s
+D a-textio.ads		20200819050643 aef4d56d ada.text_io%s
+D interfac.ads		20200819050644 5ab55268 interfaces%s
+D i-cstrea.ads		20200819050644 e53d8b8e interfaces.c_streams%s
+D main.adb		20201030142754 26750e31 main%b
+D system.ads		20200819050647 4635ec04 system%s
+D s-crtl.ads		20200819050645 0ebbdb71 system.crtl%s
+D s-ficobl.ads		20200819050645 078245e4 system.file_control_block%s
+D s-parame.ads		20200819050646 4752c4cb system.parameters%s
+D s-wchcon.ads		20200819050646 1b7d22d2 system.wch_con%s
+G a e
+G c Z b b [main standard 3 11 none]
+X 1 ada.ads
+16K9*Ada 20e8 7|1r6 1r23
+X 4 a-textio.ads
+57K13*Text_IO 727e16 7|1w10 1r27
+508U14*Put_Line 7|6s3
+X 7 main.adb
+3U11*Main 3b11 8l5 8t9
+5i7 I{integer} 6r26 6r35
+

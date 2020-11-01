@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__greet_sa.o
+[PROJECT FILES]
+/home/felix/gnatstudio/share/gpr/_default.gpr
+20200724222349 9f5f5e81abaf2fbf76b8ae5e5eaa0f2b
+[BOUND OBJECT FILES]
+/home/felix/ada/for_loop//greet_sa.o
+[GENERATED SOURCE FILES]
+b__greet_sa.ads
+b__greet_sa.adb
+b__greet_sa.ali
+[RESULTING OPTIONS]
+-L/home/felix/ada/for_loop/
+-L/home/felix/ada/for_loop//
+-L/home/felix/gnatstudio/lib/gcc/x86_64-pc-linux-gnu/9.3.1/adalib/
+-static
+-static-libgcc
+/home/felix/gnatstudio/lib/gcc/x86_64-pc-linux-gnu/9.3.1/adalib/libgnat.a
+-ldl

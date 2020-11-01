@@ -1,0 +1,39 @@
+V "GNAT Lib v2020"
+A -gnatA
+A -gnatc
+A -gnatwa
+A -gnaty3
+A -gnatya
+A -gnatyb
+A -gnatyc
+A -gnatye
+A -gnatyf
+A -gnatyh
+A -gnatyi
+A -gnatyk
+A -gnatyl
+A -gnatym
+A -gnatyn
+A -gnatyp
+A -gnatyr
+A -gnatys
+A -gnatyt
+A -mtune=generic
+A -march=x86-64
+P NO FX
+
+RN
+RV NO_IMPLEMENTATION_PRAGMAS
+RV NO_ELABORATION_CODE
+
+U operations%s		operation.ads		ba3312cc EE OO PK
+
+D operation.ads		20201101112509 ba3312cc operations%s
+G a Z
+X 1 operation.ads
+1K9*Operations 8l5 8e15
+4V12*Increment_By{integer} 4>26 4>39
+4i26 I{integer}
+4i39 Incr{integer}
+6V12*Get_Increment_Value{integer}
+

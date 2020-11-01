@@ -1,0 +1,8 @@
+/home/felix/ada/subprograms/#2//swap.adb:1:01: (style) subprogram body has no previous spec
+/home/felix/ada/subprograms/#2//swap.adb:1:15: (style) space required
+/home/felix/ada/subprograms/#2//swap.adb:2:03: (style) bad indentation
+/home/felix/ada/subprograms/#2//swap.adb:4:03: (style) bad indentation
+/home/felix/ada/subprograms/#2//swap.adb:6:03: (style) bad indentation
+/home/felix/ada/subprograms/#2//swap.adb:6:03: assignment to "in" mode parameter not allowed
+/home/felix/ada/subprograms/#2//swap.adb:8:03: (style) bad indentation
+/home/felix/ada/subprograms/#2//swap.adb:8:03: assignment to "in" mode parameter not allowed
