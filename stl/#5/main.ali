@@ -1,0 +1,23 @@
+V "GNAT Lib v2020"
+M P W=b
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_IMPLEMENTATION_PRAGMAS
+
+U main%b		main.adb		48b9f1db NE OO SU
+
+D main.adb		20201108111802 48b9f1db main%b
+D system.ads		20200819050647 4635ec04 system%s
+G a e
+G c Z b b [main standard 1 11 none]
+X 1 main.adb
+1U11*Main 1b11 24l5 24t9
+3I8 Social_Security_Number<integer> 8r9 14r13 23r10
+8i3 SSN{3I8} 22r17 23m3
+12i3 I{integer} 22m3 23r34
+14i3 Invalid{3I8}
+

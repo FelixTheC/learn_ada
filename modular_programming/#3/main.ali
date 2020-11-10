@@ -1,0 +1,76 @@
+V "GNAT Lib v2020"
+M P W=b
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P SS ZX
+
+RN
+RV NO_IO
+RV NO_STANDARD_STORAGE_POOLS
+RV NO_DYNAMIC_SIZED_OBJECTS
+RV NO_IMPLEMENTATION_PRAGMAS
+
+U main%b		main.adb		a30f1b9f NE OO SU
+W ada%s			ada.ads			ada.ali
+Z ada.tags%s		a-tags.adb		a-tags.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+Z system.concat_2%s	s-conca2.adb		s-conca2.ali
+Z system.secondary_stack%s  s-secsta.adb	s-secsta.ali
+W week%s		week.ads		week.ali
+W week.child%s		week-child.adb		week-child.ali
+W week.child.grandchild%s  week-child-grandchild.adb  week-child-grandchild.ali
+W week.child2%s		week-child2.adb		week-child2.ali
+
+D ada.ads		20200819050642 76789da1 ada%s
+D a-except.ads		20200819050642 a7106115 ada.exceptions%s
+D a-ioexce.ads		20200819050642 e4a01f64 ada.io_exceptions%s
+D a-stream.ads		20200819050642 119b8fb3 ada.streams%s
+D a-tags.ads		20200819050643 edddc8f0 ada.tags%s
+D a-textio.ads		20200819050643 aef4d56d ada.text_io%s
+D a-unccon.ads		20200819050643 0e9b276f ada.unchecked_conversion%s
+D interfac.ads		20200819050644 5ab55268 interfaces%s
+D i-cstrea.ads		20200819050644 e53d8b8e interfaces.c_streams%s
+D main.adb		20201102190246 68ae955f main%b
+D system.ads		20200819050647 4635ec04 system%s
+D s-conca2.ads		20200819050645 02a0d7d0 system.concat_2%s
+D s-crtl.ads		20200819050645 0ebbdb71 system.crtl%s
+D s-exctab.ads		20200819050645 54135002 system.exception_table%s
+D s-ficobl.ads		20200819050645 078245e4 system.file_control_block%s
+D s-parame.ads		20200819050646 4752c4cb system.parameters%s
+D s-secsta.ads		20200819050646 9b3ab94b system.secondary_stack%s
+D s-soflin.ads		20200819050646 a7318a92 system.soft_links%s
+D s-stache.ads		20200819050646 a37c21ec system.stack_checking%s
+D s-stalib.ads		20200819050646 6b7a13f2 system.standard_library%s
+D s-stoele.ads		20200819050646 2dc34a04 system.storage_elements%s
+D s-traent.ads		20200819050646 005bf670 system.traceback_entries%s
+D s-unstyp.ads		20200819050646 5ecf7212 system.unsigned_types%s
+D s-wchcon.ads		20200819050646 1b7d22d2 system.wch_con%s
+D week.ads		20201102171306 f5cb684c week%s
+D week-child.ads	20201102171500 95002058 week.child%s
+D week-child-grandchild.ads  20201102170724 80d51200 week.child.grandchild%s
+D week-child2.ads	20201102190010 708069f5 week.child2%s
+G a e
+G c Z b b [main standard 6 11 none]
+G r c none [main standard 6 11 none] [get_first_of_week week__child 3 12 none]
+G r c none [main standard 6 11 none] [get_second_of_week week__child__grandchild 3 12 none]
+G r c none [main standard 6 11 none] [get_last_of_week week__child2 3 12 none]
+X 1 ada.ads
+16K9*Ada 20e8 10|1r6 1r33
+X 6 a-textio.ads
+57K13*Text_IO 727e16 10|1w10 1r37
+508U14*Put_Line 10|9s3 10s3 11s3 12s3
+X 10 main.adb
+6U11*Main 6b11 13l5 13t9
+X 25 week.ads
+1K9*Week 10|2r6 2r33 3r6 3r33 4r6 4r33 25|11e9
+X 26 week-child.ads
+1K14*Child 10|2w11 2r38 4r11 4r38 26|5e15
+3V12*Get_First_Of_Week{string} 10|9s43
+X 27 week-child-grandchild.ads
+1K20*Grandchild 10|4w17 4r44 27|5e26
+3V12*Get_Second_Of_Week{string} 10|10s44
+X 28 week-child2.ads
+1K14*Child2 10|3w11 3r38 28|5e16
+3V12*Get_Last_Of_Week{string} 10|12s42
+

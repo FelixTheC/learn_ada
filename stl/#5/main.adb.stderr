@@ -1,0 +1,2 @@
+main.adb:14:39: warning: value not in range of type "Social_Security_Number" defined at line 3
+main.adb:14:39: warning: "Constraint_Error" will be raised at run time

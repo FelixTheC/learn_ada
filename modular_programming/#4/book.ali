@@ -1,0 +1,32 @@
+V "GNAT Lib v2020"
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P SS ZX
+
+RN
+RV NO_SECONDARY_STACK
+RV NO_IMPLEMENTATION_PRAGMAS
+
+U book%b		book.adb		708d8401 NE OO PK
+Z system.secondary_stack%s  s-secsta.adb	s-secsta.ali
+
+U book%s		book.ads		2750d336 EE NE OO PK
+
+D book.ads		20201102190508 2750d336 book%s
+D book.adb		20201102191600 57dd5737 book%b
+D system.ads		20200819050647 4635ec04 system%s
+D s-parame.ads		20200819050646 4752c4cb system.parameters%s
+D s-secsta.ads		20200819050646 9b3ab94b system.secondary_stack%s
+D s-stoele.ads		20200819050646 2dc34a04 system.storage_elements%s
+G a e
+G c Z s b [get_title book 5 12 none]
+G c Z s b [get_author book 6 12 none]
+X 1 book.ads
+1K9*Book 8l5 8e9 2|1b14 15l5 15t9
+3a3*Title{string} 2|7r12
+5V12*Get_Title{string} 2|5b12 8l7 8t16
+6V12*Get_Author{string} 2|10b12 13l7 13t17
+X 2 book.adb
+3a3 Author{string} 12r12
+

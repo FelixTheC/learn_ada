@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__enumeration_example.o
+[PROJECT FILES]
+/home/felix/gnatstudio/share/gpr/_default.gpr
+20200724222349 e267df9754a5ebaea3ab32133f9a31b5
+[BOUND OBJECT FILES]
+/home/felix/ada/stl/#3//enumeration_example.o
+[GENERATED SOURCE FILES]
+b__enumeration_example.ads
+b__enumeration_example.adb
+b__enumeration_example.ali
+[RESULTING OPTIONS]
+-L/home/felix/ada/stl/#3/
+-L/home/felix/ada/stl/#3//
+-L/home/felix/gnatstudio/lib/gcc/x86_64-pc-linux-gnu/9.3.1/adalib/
+-static
+-static-libgcc
+/home/felix/gnatstudio/lib/gcc/x86_64-pc-linux-gnu/9.3.1/adalib/libgnat.a
+-ldl

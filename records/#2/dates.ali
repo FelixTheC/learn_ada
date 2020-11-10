@@ -1,0 +1,91 @@
+V "GNAT Lib v2020"
+A -gnatA
+A -mtune=generic
+A -march=x86-64
+P ZX
+
+RN
+RV NO_IO
+RV NO_DYNAMIC_SIZED_OBJECTS
+RV NO_IMPLEMENTATION_PRAGMAS
+
+U dates%b		dates.adb		5ca9e2f7 NE OO PK
+W ada%s			ada.ads			ada.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+Z interfaces%s		interfac.ads		interfac.ali
+Z system%s		system.ads		system.ali
+Z system.aux_dec%s	s-auxdec.adb		s-auxdec.ali
+Z system.concat_4%s	s-conca4.adb		s-conca4.ali
+Z system.img_enum_new%s	s-imenne.adb		s-imenne.ali
+Z system.img_int%s	s-imgint.adb		s-imgint.ali
+
+U dates%s		dates.ads		34352712 EE NE OO PK
+
+D ada.ads		20200819050642 76789da1 ada%s
+D a-except.ads		20200819050642 a7106115 ada.exceptions%s
+D a-ioexce.ads		20200819050642 e4a01f64 ada.io_exceptions%s
+D a-stream.ads		20200819050642 119b8fb3 ada.streams%s
+D a-tags.ads		20200819050643 edddc8f0 ada.tags%s
+D a-textio.ads		20200819050643 aef4d56d ada.text_io%s
+D a-unccon.ads		20200819050643 0e9b276f ada.unchecked_conversion%s
+D dates.ads		20201108121932 34352712 dates%s
+D dates.adb		20201108123228 c6681088 dates%b
+D interfac.ads		20200819050644 5ab55268 interfaces%s
+D i-cstrea.ads		20200819050644 e53d8b8e interfaces.c_streams%s
+D system.ads		20200819050647 4635ec04 system%s
+D s-auxdec.ads		20200819050645 f82e173a system.aux_dec%s
+D s-conca4.ads		20200819050645 7e642b20 system.concat_4%s
+D s-crtl.ads		20200819050645 0ebbdb71 system.crtl%s
+D s-exctab.ads		20200819050645 54135002 system.exception_table%s
+D s-ficobl.ads		20200819050645 078245e4 system.file_control_block%s
+D s-imenne.ads		20200819050645 614c06c0 system.img_enum_new%s
+D s-imgint.ads		20200819050645 02dbe0c2 system.img_int%s
+D s-parame.ads		20200819050646 4752c4cb system.parameters%s
+D s-secsta.ads		20200819050646 9b3ab94b system.secondary_stack%s
+D s-soflin.ads		20200819050646 a7318a92 system.soft_links%s
+D s-stache.ads		20200819050646 a37c21ec system.stack_checking%s
+D s-stalib.ads		20200819050646 6b7a13f2 system.standard_library%s
+D s-stoele.ads		20200819050646 2dc34a04 system.storage_elements%s
+D s-traent.ads		20200819050646 005bf670 system.traceback_entries%s
+D s-unstyp.ads		20200819050646 5ecf7212 system.unsigned_types%s
+D s-wchcon.ads		20200819050646 1b7d22d2 system.wch_con%s
+G a e
+G c Z s b [increase_month dates 15 13 none]
+G c Z s b [display_month dates 17 13 none]
+G c Z s s [dateIP dates 9 8 none]
+X 1 ada.ads
+16K9*Ada 20e8 9|1r6 1r23
+X 6 a-textio.ads
+57K13*Text_IO 727e16 9|1w10 1r27
+508U14*Put_Line 9|27s5
+X 8 dates.ads
+1K9*Dates 19l5 19e10 9|3b14 31l5 31t10
+3E8*Months 7e34 11r13 9|7r10 11r25 11r40 12r16 24r9 27r27
+4n6*January{3E8} 9|15r14
+4n15*February{3E8}
+4n25*March{3E8}
+5n6*April{3E8}
+5n13*May{3E8}
+5n18*June{3E8}
+6n6*July{3E8}
+6n12*August{3E8}
+6n20*September{3E8}
+7n6*October{3E8}
+7n15*November{3E8}
+7n25*December{3E8} 9|14r13
+9R8*Date 13e13 15r47 17r39 9|5r47 22r39
+10i5*Day{integer}
+11e5*Month{3E8} 9|7m35 24m33
+12i5*Year{integer} 9|8m35 25m34
+15U13*Increase_Month 15=29 9|5b13 20l7 20t21
+15r29 Some_Day{9R8} 9|5b29 7m26 7r26 8m26 8r26
+17U13*Display_Month 17>28 9|22b13 29l7 29t20
+17r28 Some_Day{9R8} 9|22b28 24r24 25r25
+X 9 dates.adb
+7e6 M{8|3E8} 14r9 15r9 18r9 18r20
+8i6 Y{integer} 16r9 16r14
+11V15 Next{8|3E8} 11b15 11>21 18s14
+11e21 M{8|3E8}
+24e5 M{8|3E8} 27r40
+25i5 Y{integer} 28r43
+

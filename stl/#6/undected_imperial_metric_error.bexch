@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__undected_imperial_metric_error.o
+[PROJECT FILES]
+/home/felix/gnatstudio/share/gpr/_default.gpr
+20200724222349 05e2b486bff3623c68d5fa651fcd868d
+[BOUND OBJECT FILES]
+/home/felix/ada/stl/#6//undected_imperial_metric_error.o
+[GENERATED SOURCE FILES]
+b__undected_imperial_metric_error.ads
+b__undected_imperial_metric_error.adb
+b__undected_imperial_metric_error.ali
+[RESULTING OPTIONS]
+-L/home/felix/ada/stl/#6/
+-L/home/felix/ada/stl/#6//
+-L/home/felix/gnatstudio/lib/gcc/x86_64-pc-linux-gnu/9.3.1/adalib/
+-static
+-static-libgcc
+/home/felix/gnatstudio/lib/gcc/x86_64-pc-linux-gnu/9.3.1/adalib/libgnat.a
+-ldl

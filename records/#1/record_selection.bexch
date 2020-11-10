@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__record_selection.o
+[PROJECT FILES]
+/home/felix/gnatstudio/share/gpr/_default.gpr
+20200724222349 93502e4e7d9d1195b8bb0bada9a933ab
+[BOUND OBJECT FILES]
+/home/felix/ada/records/#1//record_selection.o
+[GENERATED SOURCE FILES]
+b__record_selection.ads
+b__record_selection.adb
+b__record_selection.ali
+[RESULTING OPTIONS]
+-L/home/felix/ada/records/#1/
+-L/home/felix/ada/records/#1//
+-L/home/felix/gnatstudio/lib/gcc/x86_64-pc-linux-gnu/9.3.1/adalib/
+-static
+-static-libgcc
+/home/felix/gnatstudio/lib/gcc/x86_64-pc-linux-gnu/9.3.1/adalib/libgnat.a
+-ldl

@@ -1,0 +1,9 @@
+/home/felix/ada/arrays/#2//array_bounds_example.adb:5:03: (style) bad indentation
+/home/felix/ada/arrays/#2//array_bounds_example.adb:6:03: (style) bad indentation
+/home/felix/ada/arrays/#2//array_bounds_example.adb:9:03: (style) bad indentation
+/home/felix/ada/arrays/#2//array_bounds_example.adb:11:03: (style) bad indentation
+/home/felix/ada/arrays/#2//array_bounds_example.adb:11:03: warning: "Tab" is not modified, could be declared constant
+/home/felix/ada/arrays/#2//array_bounds_example.adb:15:03: (style) bad indentation
+/home/felix/ada/arrays/#2//array_bounds_example.adb:16:05: (style) bad indentation
+/home/felix/ada/arrays/#2//array_bounds_example.adb:17:03: (style) bad indentation
+/home/felix/ada/arrays/#2//array_bounds_example.adb:18:03: (style) bad indentation

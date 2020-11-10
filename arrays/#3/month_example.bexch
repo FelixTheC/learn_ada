@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__month_example.o
+[PROJECT FILES]
+/home/felix/gnatstudio/share/gpr/_default.gpr
+20200724222349 bbfe370b9e5289858117ab15eff610c5
+[BOUND OBJECT FILES]
+/home/felix/ada/arrays/#3//month_example.o
+[GENERATED SOURCE FILES]
+b__month_example.ads
+b__month_example.adb
+b__month_example.ali
+[RESULTING OPTIONS]
+-L/home/felix/ada/arrays/#3/
+-L/home/felix/ada/arrays/#3//
+-L/home/felix/gnatstudio/lib/gcc/x86_64-pc-linux-gnu/9.3.1/adalib/
+-static
+-static-libgcc
+/home/felix/gnatstudio/lib/gcc/x86_64-pc-linux-gnu/9.3.1/adalib/libgnat.a
+-ldl

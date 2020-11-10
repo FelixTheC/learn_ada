@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__integer_type_example.o
+[PROJECT FILES]
+/home/felix/gnatstudio/share/gpr/_default.gpr
+20200724222349 ee163225ed46e19061fd23937d3f4011
+[BOUND OBJECT FILES]
+/home/felix/ada/stl/#1//integer_type_example.o
+[GENERATED SOURCE FILES]
+b__integer_type_example.ads
+b__integer_type_example.adb
+b__integer_type_example.ali
+[RESULTING OPTIONS]
+-L/home/felix/ada/stl/#1/
+-L/home/felix/ada/stl/#1//
+-L/home/felix/gnatstudio/lib/gcc/x86_64-pc-linux-gnu/9.3.1/adalib/
+-static
+-static-libgcc
+/home/felix/gnatstudio/lib/gcc/x86_64-pc-linux-gnu/9.3.1/adalib/libgnat.a
+-ldl

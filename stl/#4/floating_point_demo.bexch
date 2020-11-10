@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__floating_point_demo.o
+[PROJECT FILES]
+/home/felix/gnatstudio/share/gpr/_default.gpr
+20200724222349 ef858398333da467060cc419fedfd65e
+[BOUND OBJECT FILES]
+/home/felix/ada/stl/#4//floating_point_demo.o
+[GENERATED SOURCE FILES]
+b__floating_point_demo.ads
+b__floating_point_demo.adb
+b__floating_point_demo.ali
+[RESULTING OPTIONS]
+-L/home/felix/ada/stl/#4/
+-L/home/felix/ada/stl/#4//
+-L/home/felix/gnatstudio/lib/gcc/x86_64-pc-linux-gnu/9.3.1/adalib/
+-static
+-static-libgcc
+/home/felix/gnatstudio/lib/gcc/x86_64-pc-linux-gnu/9.3.1/adalib/libgnat.a
+-ldl

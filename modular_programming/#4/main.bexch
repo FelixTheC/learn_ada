@@ -1,0 +1,21 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+/home/felix/gnatstudio/share/gpr/_default.gpr
+20200724222349 e4de9261f3970cc676c887576b543ddc
+[BOUND OBJECT FILES]
+/home/felix/ada/modular_programming/#4//book.o
+/home/felix/ada/modular_programming/#4//book-additional_operations.o
+/home/felix/ada/modular_programming/#4//main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-L/home/felix/ada/modular_programming/#4/
+-L/home/felix/ada/modular_programming/#4//
+-L/home/felix/gnatstudio/lib/gcc/x86_64-pc-linux-gnu/9.3.1/adalib/
+-static
+-static-libgcc
+/home/felix/gnatstudio/lib/gcc/x86_64-pc-linux-gnu/9.3.1/adalib/libgnat.a
+-ldl

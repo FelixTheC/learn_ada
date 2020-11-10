@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__unconstrained_array_example.o
+[PROJECT FILES]
+/home/felix/gnatstudio/share/gpr/_default.gpr
+20200724222349 8eb4b0e8f163f55e14029a9ae956df3a
+[BOUND OBJECT FILES]
+/home/felix/ada/arrays/#5//unconstrained_array_example.o
+[GENERATED SOURCE FILES]
+b__unconstrained_array_example.ads
+b__unconstrained_array_example.adb
+b__unconstrained_array_example.ali
+[RESULTING OPTIONS]
+-L/home/felix/ada/arrays/#5/
+-L/home/felix/ada/arrays/#5//
+-L/home/felix/gnatstudio/lib/gcc/x86_64-pc-linux-gnu/9.3.1/adalib/
+-static
+-static-libgcc
+/home/felix/gnatstudio/lib/gcc/x86_64-pc-linux-gnu/9.3.1/adalib/libgnat.a
+-ldl
